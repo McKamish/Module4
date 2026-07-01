@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 ### Assignment Four - Dice Roller
 ### Author: Cory Jameson
 ###
@@ -19,11 +21,6 @@
 ###     Calculate the total and print the value of each die and the total. 
 ###     Do a check if the total is equal to 2, print "Snake Eyes!" 
 ###     Do a check if the total is equal to  12 print("Boxcars!")
-###
-
-
-
-#!/usr/bin/env python3
 
 import random
 
