@@ -20,7 +20,7 @@
 ### roll_dice() - This function rolls and store the value of two die (using the roll() function). 
 ###     Calculate the total and print the value of each die and the total. 
 ###     Do a check if the total is equal to 2, print "Snake Eyes!" 
-###     Do a check if the total is equal to  12 print("Boxcars!")
+###     Do a check if the total is equal to 12, print("Boxcars!")
 
 import random
 
